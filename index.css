@@ -49,7 +49,7 @@ body {
 
 .header-container {
     display: flex;
-    /*width: 1440px;*/
+    width: 100%;
     background-color: #f8f8f8;
     padding: 104px 133px 168px;
 }
